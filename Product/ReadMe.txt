@@ -1,0 +1,1 @@
+To open the source code, right click on the file called index.html and open it with a text editor.
